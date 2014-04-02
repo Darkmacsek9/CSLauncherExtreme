@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="cslauncher.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="res" Type="System.String" Scope="User">
+      <Value Profile="(Default)"> -w 1280 -h 1024</Value>
+    </Setting>
+    <Setting Name="ren" Type="System.String" Scope="User">
+      <Value Profile="(Default)"> -soft</Value>
+    </Setting>
+    <Setting Name="srv" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="scrn" Type="System.String" Scope="User">
+      <Value Profile="(Default)"> -full</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
